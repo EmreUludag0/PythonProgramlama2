@@ -1,0 +1,10 @@
+Merhaba Hocam,
+Python 2'de dönem sonu projem olarak,
+kameraya elimizi göstererek chrome dinozor oyununda 
+dinozorun zıplamasını sağladım.
+
+Bu projenin fikrini youtube'da bir kanaldan gördüm.
+Cv2 kütüphanesi ile yazılan kodları kendim yazmaya çalıştım.
+Pyautogui kütüphanesi için tüyo alarak tamamladım.
+
+Teşekkürler.

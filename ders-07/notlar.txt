@@ -1,0 +1,5 @@
+# pip install pytesseract
+# pip install pillow
+
+import pytesseract # metin okuma islemleri
+import PIL # pillow gorsel iizerinde islemler
